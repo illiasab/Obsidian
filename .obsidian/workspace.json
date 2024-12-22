@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "861c42fa34b53029",
+    "id": "4420c3bcb2c02c7f",
     "type": "split",
     "children": [
       {
-        "id": "f95d53b489c0eb03",
+        "id": "febcdc4ebe3bffdd",
         "type": "tabs",
         "children": [
           {
-            "id": "1783c45638144ddf",
+            "id": "907b1e2b4f52ea23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/BinarySearch/Binary Search.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Binary Search"
             }
           }
         ]
@@ -23,15 +27,27 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9940c94896cd62ae",
+    "id": "d65fa63b5be48194",
     "type": "split",
     "children": [
       {
-        "id": "2f74356835e15ba1",
+        "id": "581d655935eb5ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "ec2462a1bfb46e2b",
+            "id": "c0efe4626e3dc38c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d23d78e903b0a703",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,25 +64,13 @@
             }
           },
           {
-            "id": "0aa4024f9fb0acc1",
+            "id": "93413522adcac750",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "e3ecab790f0dc322",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
             }
           }
         ]
@@ -76,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "8e4b7b3fd575dd06",
+    "id": "5552f4b274eb4f80",
     "type": "split",
     "children": [
       {
-        "id": "c49553c209016242",
+        "id": "40eb1b3c11b9157b",
         "type": "tabs",
         "children": [
           {
-            "id": "86813c45af96b19f",
+            "id": "f3c5e554c721043b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solid.md",
+                "file": "Obsidian Vault/BinarySearch/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for solid"
+              "title": "Backlinks for Binary Search"
             }
           },
           {
-            "id": "0107e5240cdc5011",
+            "id": "2b5a6938253b360d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solid.md",
+                "file": "Obsidian Vault/BinarySearch/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from solid"
+              "title": "Outgoing links from Binary Search"
             }
           },
           {
-            "id": "48c0d5cd491d9f15",
+            "id": "84d7fcee03f2cc88",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,19 +134,18 @@
             }
           },
           {
-            "id": "08584d5bca0e7584",
+            "id": "dc2edf25623201ca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "solid.md"
+                "file": "Obsidian Vault/BinarySearch/Binary Search.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of solid"
+              "title": "Outline of Binary Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,35 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1783c45638144ddf",
+  "active": "907b1e2b4f52ea23",
   "lastOpenFiles": [
-    "Check Whether does it work or not?.md",
-    "SOLID/S.md",
-    "SOLID/O.md",
-    "SOLID/L.md",
-    "SOLID/I.md",
-    "LinkedList/LinkedList.md",
-    "HashTable/HashTable.md",
-    "2024-12-21.md",
-    "SOLID/D.md",
-    "Untitled.canvas",
-    "PrefixSum/PrefixSum.md",
-    "Data Structures and Algorithms/Alghoritms.md",
-    "Untitled 1.canvas",
-    "SOLID/solid.md",
-    "SwiftLint/Clean Code.md",
-    "Data Structures and Algorithms",
-    "Combine/Combine.md",
-    "Combine",
-    "BinarySearch/Binary Search.md",
-    "HashTable",
-    "BinarySearch",
-    "LinkedList",
-    "PrefixSum",
-    "SwiftLint",
-    "2024-12-18.md",
-    "[Savable.md",
-    "SOLID",
-    "2024-12-16.md"
+    "Obsidian Vault/Check Whether does it work or not?.md",
+    "Obsidian Vault/BinarySearch/Binary Search.md",
+    "Obsidian Vault/Untitled.canvas",
+    "README.md"
   ]
 }
