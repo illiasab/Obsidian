@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/BinarySearch/Binary Search.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search"
+              "title": "README"
             }
           }
         ]
@@ -164,9 +164,10 @@
   },
   "active": "907b1e2b4f52ea23",
   "lastOpenFiles": [
-    "Obsidian Vault/Check Whether does it work or not?.md",
+    "Obsidian Vault/SwiftLint/Clean Code.md",
+    "README.md",
     "Obsidian Vault/BinarySearch/Binary Search.md",
-    "Obsidian Vault/Untitled.canvas",
-    "README.md"
+    "Obsidian Vault/Check Whether does it work or not?.md",
+    "Obsidian Vault/Untitled.canvas"
   ]
 }
