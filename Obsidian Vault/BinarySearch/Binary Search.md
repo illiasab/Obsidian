@@ -4,7 +4,7 @@
 
 func FindSum(nums: [Int], target: Int) -> Int {
 var left = 0
-var right = 0 
+var right = nums.count - 1
 	while left <= right {
 		let mid = (right + left) / 2 // pointer for main actions 
 		// etc.
@@ -12,3 +12,7 @@ var right = 0
 }
 
 moving mid to lower bound as left and upperbound as right.
+
+
+
+var nums = [7, 11, 13, 15,17,23]
