@@ -1,0 +1,1 @@
+## using macros ensures that you won't crash with force unwrapping of optional values, In addition it will reduce size of code and will keep the base which would be unchangeable. As an Example(path of URL : https://github.com/somebooks/api/ (path)) 
